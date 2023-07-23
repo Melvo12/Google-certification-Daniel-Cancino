@@ -13,4 +13,14 @@ Next, they prepared by building a timeline and collecting data with employee sur
 They processed the data by cleaning it to make sure it was complete, correct, relevant, and free of errors and outliers. 
 They analyzed the clean employee survey data. 
 
-Then the analysts shared their findings and recommendations with team leaders. Afterward, leadership acted on the results and focused on improving key areas. 
+Then the analysts shared their findings and recommendations with team leaders. Afterwards, leadership acted on the results and focused on improving key areas. 
+
+
+###EMC's data analysis life cycle
+EMC Corporation's data analytics life cycle is cyclical with six steps:
+  1. Discovery
+  2. Pre-processing data
+  3. Model planning
+  4. Model building
+  5. Communicate results
+  6. Operationalize
